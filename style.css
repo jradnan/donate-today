@@ -203,6 +203,17 @@
 
 
     }
+    .donation-content{
+      width: 50%;
+      margin: 0px auto;
+      
+    }
+    .count{
+        margin: 15px 0;
+    }
+    .hr{
+        width: 100%;
+    }
 
     
     /* .input-field{
